@@ -1,2 +1,2 @@
-# learning-subject
-学习空间
+＃学习主题
+##地理（https://github.com/pususu/learning-subject）
